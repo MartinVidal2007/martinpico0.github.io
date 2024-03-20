@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.blue{
+    background-color: rgb(32, 167, 167);
+    width: 100vw;
+    height: 13vw;
+    
+}
+.image img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    border: 3px solid white;
+    margin-left: 30px;
+    margin-top: -100px;
+}
+.btnn {
+    border: none;
+    text-align: center;
+    color: black;
+    background-color: rgb(228, 222, 222);
+    cursor: pointer;
+    width: 100px;
+    height: 35px;
+}
+p{
+    width: 500px;
+}
